@@ -4,9 +4,7 @@ surnames = ["Vaňous", "Deker", "Pedro", "Kent"]
 age = ["22", "48", "36", "65"]
 email = ["vanous.krystof@seznam.cz", "nous.petr@gmail.com", "pedrito.jui@loca.mx", "kent.arry@outlook.com"]
 
-# a = int(input("Vyberte pozici:> ")) - 1
 
-# print(names[a] + " " + surnames[a] + " " + age[a] + " " + email[a])
 
 
 
